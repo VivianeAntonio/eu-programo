@@ -5,6 +5,6 @@
  * CSS
  * JavaScript
  
- Acesse o resultado através do link: https://siteada.vivianeantonio.repl.co/
+ Acesse o resultado através do link: https://vivianeantonio.github.io/eu-programo/
  
 ![image](https://user-images.githubusercontent.com/79110285/138686686-c2bef540-3a22-44db-952c-e4c06f3f3d87.png)
